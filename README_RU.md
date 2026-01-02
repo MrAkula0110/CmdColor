@@ -74,7 +74,7 @@ cl  # Visual Studio 2019 или новее
 
 ```bash
 # Скачайте файл
-curl -O https://raw.githubusercontent.com/MrAkula0110/CmdColor/include/CmdColor.hpp
+curl -O https://raw.githubusercontent.com/MrAkula0110/CmdColor/master/include/CmdColor.hpp
 
 # Или клонируйте репозиторий
 git clone https://github.com/MrAkula0110/CmdColor.git
