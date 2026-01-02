@@ -5,6 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![C++20](https://img.shields.io/badge/C%2B%2B-20-blue.svg)](https://en.cppreference.com/w/cpp/20)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-lightgrey.svg)](https://github.com/MrAkula0110/CmdColor)
+[![DonationAlerts](https://img.shields.io/badge/Donate-DonationAlerts-orange?style=flat&logo=donationalerts)](https://www.donationalerts.com/r/mrakula228)
 
 [English](README.md) | **Русский**
 
