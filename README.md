@@ -74,7 +74,7 @@ Simply copy `CmdColor.hpp` into your project:
 
 ```bash
 # Download the file
-curl -O https://raw.githubusercontent.com/MrAkula0110/CmdColor/main/include/CmdColor.hpp
+curl -O https://raw.githubusercontent.com/MrAkula0110/CmdColor/master/include/CmdColor.hpp
 
 # Or clone the repository
 git clone https://github.com/MrAkula0110/CmdColor.git
