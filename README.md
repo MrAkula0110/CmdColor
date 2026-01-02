@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 # 🎨 CmdColor
 
 A lightweight, header-only C++20 library for colored terminal output with animations, gradients, and rainbow effects.
@@ -1114,4 +1113,3 @@ Contributions are welcome!
 If you find this project useful, give it a ⭐ on GitHub — it's very motivating!
 
 **Thank you for using CmdColor!** 🎉
->>>>>>> Stashed changes
